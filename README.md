@@ -19,7 +19,7 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 **[bridge-translator](https://github.com/Shen-42/bridge-translator)**
 A Python program that turns Bridge game shorthand into plain English that beginners can follow.
 
-**[nyc-15min](https://github.com/Shen-42/nyc-15min)** · [live demo](YOUR-RENDER-URL)
+**[nyc-15min](https://github.com/Shen-42/nyc-15min)** · [live demo]([https://nyc-15min.onrender.com])
 An interactive map of New York City that shows what you can reach within 15 minutes of
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
