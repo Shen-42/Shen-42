@@ -4,23 +4,20 @@ I'm a Computer Science student at NYU with a minor in Mathematics, graduating in
 This fall I'm studying abroad at NYU Shanghai.
 
 I build full-stack web apps and work on projects in natural language processing, mostly
-around how to evaluate machine translation and LLM output. I'm looking for software
-engineering internships.
+around how to evaluate machine translation and LLM output. I'm currently looking for summer 2027 software engineering internships.
 
 **Currently**
-- Taking probability, software engineering, and a course on Chinese civilization
+- Taking probability and stats, software engineering, and a course on Chinese civilization
 - Working on a team project that generates clinical trial feasibility memos
-- Tutoring elementary and middle school students in English and math
-
-**Outside of code:** VP of PhotoClub @ NYU.
-
-[![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
+- Learning how to box
+ll
+[![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white)](mailto:kdc8917@nyu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-chen001)
 
 ### Projects
 
 **[bridge-translator](https://github.com/Shen-42/bridge-translator)**
-ONE OR TWO SENTENCES: what it does and who it's for. TECH STACK.
+A Python program that turns Bridge game shorthand into plain English that beginners can follow.
 
 **[nyc-15min](https://github.com/Shen-42/nyc-15min)** · [live demo](YOUR-RENDER-URL)
 An interactive map of New York City that shows what you can reach within 15 minutes of
