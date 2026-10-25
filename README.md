@@ -9,7 +9,7 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 **Currently**
 - Taking probability and stats, software engineering, and a course on Chinese civilization
 - Working on a team project that generates clinical trial feasibility memos
-- Learning how to box
+- Learning how to box & playing badminton
 
 [![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white)](mailto:kdc8917@nyu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-chen001)
