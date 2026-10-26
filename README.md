@@ -25,22 +25,22 @@ any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
 ### Tech
 
-[![Tech stack](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,fastapi,docker,aws,git,latex)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=python,c,java,js,html,css,react,nodejs,fastapi,docker,git,latex)](https://skillicons.dev)
 
 ### GitHub activity
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Shen-42&show_icons=true&hide_border=true&theme=github_dark">
-    <img height="160" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Shen-42&show_icons=true&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img height="160" alt="GitHub stats" src="./profile/stats.svg">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-42&layout=compact&hide_border=true&theme=github_dark">
-    <img height="160" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shen-42&layout=compact&hide_border=true">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img height="160" alt="Top languages" src="./profile/top-langs.svg">
   </picture>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Shen-42&hide_border=true&theme=dark">
-  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=Shen-42&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak-dark.svg">
+  <img alt="Contribution streak" src="./profile/streak.svg">
 </picture>
