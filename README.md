@@ -25,7 +25,7 @@ any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
 ### Tech
 
-[![My Skills](https://skillicons.dev/icons?i=py,c,java,js,html,css,react,nodejs,fastapi,docker,git,latex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,c,java,js,html,css,react,nodejs,fastapi,git,latex)](https://skillicons.dev)
 
 ### GitHub activity
 
