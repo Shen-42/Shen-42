@@ -19,11 +19,11 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 **[bridge-translator](https://github.com/Shen-42/bridge-translator)**
 A Python program that turns Bridge game shorthand into plain English that beginners can follow.
 
-**[nyc-15min](https://github.com/Shen-42/nyc-15min)** · [live demo](https://nyc-15min.onrender.com)
+**[nyc-15min](https://github.com/Shen-42/nyc-15min)** · [live](https://nyc-15min.onrender.com)
 An interactive map of New York City that shows what you can reach within 15 minutes of
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
-**[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [Live](https://shen-42.github.io/toronto-winters/)
+**[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
 Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. Observable Plot, D3, GitHub Pages.
 
 ### Tech
