@@ -23,7 +23,7 @@ A Python program that turns Bridge game shorthand into plain English that beginn
 An interactive map of New York City that shows what you can reach within 15 minutes of
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
-**[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
+**[toronto-winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
 Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. 
 
 ### Tech
