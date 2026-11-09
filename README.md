@@ -24,7 +24,7 @@ An interactive map of New York City that shows what you can reach within 15 minu
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
 **[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
-Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. Observable Plot, D3, GitHub Pages.
+Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. 
 
 ### Tech
 
