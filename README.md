@@ -1,9 +1,7 @@
 ## Hi, I'm Kevin
 
 I'm a Computer Science student at NYU with a minor in Mathematics, graduating in May 2028.
-This fall I'm studying abroad at NYU Shanghai.
-
-I build full-stack web apps and work on projects in natural language processing, mostly
+This fall I'm studying abroad at NYU Shanghai. I build full-stack web apps and work on projects in natural language processing, mostly
 around how to evaluate machine translation and LLM output. I'm currently looking for summer 2027 software engineering internships.
 
 ---
