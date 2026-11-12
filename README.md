@@ -1,7 +1,5 @@
 ## Hi, I'm Kevin
 
----
-
 I'm a Computer Science student at NYU with a minor in Mathematics, graduating in May 2028.
 This fall I'm studying abroad at NYU Shanghai.
 
