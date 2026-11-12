@@ -1,18 +1,14 @@
 ## Hi, I'm Kevin
 
+---
+
 I'm a Computer Science student at NYU with a minor in Mathematics, graduating in May 2028.
 This fall I'm studying abroad at NYU Shanghai.
 
 I build full-stack web apps and work on projects in natural language processing, mostly
 around how to evaluate machine translation and LLM output. I'm currently looking for summer 2027 software engineering internships.
 
-**Currently**
-- Taking probability and stats, software engineering, and a course on Chinese civilization
-- Working on a team project that generates clinical trial feasibility memos
-- Learning how to box & playing badminton
-
-[![Email](https://img.shields.io/badge/Email-555?style=flat&logo=gmail&logoColor=white)](mailto:kdc8917@nyu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-chen001)
+---
 
 ### Projects
 
@@ -26,9 +22,13 @@ any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 **[toronto-winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
 Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. 
 
+---
+
 ### Tech
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,java,js,html,css,react,nodejs,fastapi,git,latex)](https://skillicons.dev)
+
+---
 
 ### GitHub activity
 
