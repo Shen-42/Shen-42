@@ -26,7 +26,7 @@ Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada
 
 ---
 
-### GitHub activity
+### GitHub Activity
 
 <p>
   <picture>
