@@ -18,6 +18,9 @@ any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 **[toronto-winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
 Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. 
 
+**[gallbladder-tracker](https://github.com/Shen-42/gallbladder-tracker)** · [demo](https://shen-42.github.io/gallbladder-tracker/)
+A web app for people with gallbladder problems to log meals, their fat content, and pain episodes, so they can see which meals came before the pain.
+
 ---
 
 ### Tech
