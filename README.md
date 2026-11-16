@@ -13,7 +13,7 @@ An interactive map of New York City that shows what you can reach within 15 minu
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
 **[Machine Translation Metrics by Phenomenon](https://github.com/mrassell/machine-translation-project)**
-Team project (4 people, Jan–May 2026) on how MT evaluation metrics perform across specific linguistic phenomena.
+Team project on how MT evaluation metrics perform across specific linguistic phenomena.
 
 **[Bridge Translator](https://github.com/Shen-42/bridge-translator)**
 A Python program that turns Bridge game shorthand into plain English that beginners can follow.
