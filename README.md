@@ -8,20 +8,20 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 
 ### Projects
 
-**[nyc-15min](https://github.com/Shen-42/nyc-15min-info)** · [live](https://www.nyc15min.com/)
+**[NYC 15-Minute City Explorer](https://github.com/Shen-42/nyc-15min-info)** · [live](https://www.nyc15min.com/)
 An interactive map of New York City that shows what you can reach within 15 minutes of
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
 **[Machine Translation Metrics by Phenomenon](https://github.com/mrassell/machine-translation-project)**
 Team project (4 people, Jan–May 2026) on how MT evaluation metrics perform across specific linguistic phenomena.
 
-**[bridge-translator](https://github.com/Shen-42/bridge-translator)**
+**[Bridge Translator](https://github.com/Shen-42/bridge-translator)**
 A Python program that turns Bridge game shorthand into plain English that beginners can follow.
 
-**[toronto-winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
+**[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
 Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. 
 
-**[gallbladder-tracker](https://github.com/Shen-42/gallbladder-tracker)** · [demo](https://shen-42.github.io/gallbladder-tracker/)
+**[Gallbladder Tracker](https://github.com/Shen-42/gallbladder-tracker)** · [demo](https://shen-42.github.io/gallbladder-tracker/)
 A web app for people with gallbladder problems to log meals, their fat content, and pain episodes, so they can see which meals came before the pain.
 
 ---
