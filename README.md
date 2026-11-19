@@ -8,7 +8,7 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 
 ### Projects
 
-**[NYC 15-Minute City Explorer](https://github.com/Shen-42/nyc-15min-info)** · [live](https://www.nyc15min.com/)
+**[NYC 15-Minute City Explorer](https://github.com/Shen-42/nyc-15min)** · [live](https://www.nyc15min.com/)
 An interactive map of New York City that shows what you can reach within 15 minutes of
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
