@@ -12,10 +12,14 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 An interactive map of New York City that shows what you can reach within 15 minutes of
 any address. React and Leaflet front end, FastAPI back end, deployed on Render.
 
+**[Toronto Crash Coverage Framing](https://github.com/Shen-42/media-bias)** · [site](https://shen-42.github.io/media-bias/)
+Measures how Toronto news frames crashes involving pedestrians and cyclists, using spaCy dependency rules and
+weak supervision over 979 articles. Includes a Chrome extension that labels crash sentences on the page you're reading.
+
 **[Machine Translation Metrics by Phenomenon](https://github.com/mrassell/machine-translation-project)**
 Team project on how MT evaluation metrics perform across specific linguistic phenomena.
 
-**[Bridge Translator](https://github.com/Shen-42/bridge-translator)**
+**[Bridge Translator](https://github.com/Shen-42/bridge-translator)** · [site](https://shen-42.github.io/bridge-translator/)
 A Python program that turns Bridge game shorthand into plain English that beginners can follow.
 
 **[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
@@ -38,9 +42,18 @@ A web app for people with gallbladder problems to log meals, their fat content, 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge&logo=maplibre&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 ---
