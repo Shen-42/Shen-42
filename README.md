@@ -8,10 +8,12 @@ how to evaluate machine translation and LLM output. I'm currently looking for su
 
 ### Featured projects
 
-- [**NYC 15-Minute City Explorer**](https://github.com/Shen-42/nyc-15min): what you can reach on foot in 15 minutes from any NYC address ([live](https://www.nyc15min.com/))
-- [**Toronto Crash Coverage Framing**](https://github.com/Shen-42/media-bias): how Toronto news describes crashes involving pedestrians and cyclists ([site](https://shen-42.github.io/media-bias/))
-- [**Bridge Translator**](https://github.com/Shen-42/bridge-translator): Bridge game shorthand turned into plain English for beginners ([results](https://shen-42.github.io/bridge-translator/))
-- [**Gallbladder Tracker**](https://github.com/Shen-42/gallbladder-tracker): logs meals and pain episodes to show which foods came before the pain ([demo](https://shen-42.github.io/gallbladder-tracker/))
+| Project | What it does | Built with | |
+|:---|:---|:---|:---|
+| [**NYC 15-Minute City Explorer**](https://github.com/Shen-42/nyc-15min) | What you can reach on foot in 15 minutes in NYC | React, MapLibre, FastAPI | [live](https://www.nyc15min.com/) |
+| [**Toronto Crash Coverage Framing**](https://github.com/Shen-42/media-bias) | How Toronto news describes crashes with cyclists | Python, spaCy, Snorkel | [results](https://shen-42.github.io/media-bias/) |
+| [**Bridge Translator**](https://github.com/Shen-42/bridge-translator) | Bridge game shorthand in plain English | Python, Qwen3, Ollama | [results](https://shen-42.github.io/bridge-translator/) |
+| [**Gallbladder Tracker**](https://github.com/Shen-42/gallbladder-tracker) | Shows which foods came before pain episodes | Java, Spring Boot | [demo](https://shen-42.github.io/gallbladder-tracker/) |
 
 ---
 
