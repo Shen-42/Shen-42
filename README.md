@@ -1,19 +1,19 @@
 ## Hi, I'm Kevin
 
 I'm a Computer Science student at NYU with a minor in Mathematics, graduating in May 2028.
-This fall I'm studying abroad at NYU Shanghai. I build full-stack web apps and work on projects in natural language processing, mostly
-around how to evaluate machine translation and LLM output. I'm currently looking for summer 2027 software engineering internships.
+I build full-stack web apps and work on projects in natural language processing, mostly around 
+how to evaluate machine translation and LLM output. I'm currently looking for summer 2027 software engineering internships.
 
 ---
 
 ### Featured projects
 
-| Project | What it does | Built with |
-|---|---|---|
-| [NYC 15-Minute City Explorer](https://github.com/Shen-42/nyc-15min) · [live](https://www.nyc15min.com/) | Shows what you can reach on foot within 15 minutes of any NYC address | React, MapLibre, FastAPI |
-| [Toronto Crash Coverage Framing](https://github.com/Shen-42/media-bias) · [site](https://shen-42.github.io/media-bias/) | Measures how Toronto news describes crashes involving pedestrians and cyclists | Python, spaCy, Snorkel |
-| [Bridge Translator](https://github.com/Shen-42/bridge-translator) · [results](https://shen-42.github.io/bridge-translator/) | Turns Bridge game shorthand into plain English for beginners | Python, Qwen3, Ollama |
-| [Gallbladder Tracker](https://github.com/Shen-42/gallbladder-tracker) · [demo](https://shen-42.github.io/gallbladder-tracker/) | Logs meals and pain episodes, and shows which foods came before the pain | Java, Spring Boot, PostgreSQL |
+| Project | What it does | Built with | |
+|:---|:---|:---|:---|
+| [**NYC 15-Minute City Explorer**](https://github.com/Shen-42/nyc-15min) | What you can reach on foot in 15 minutes in NYC | React, MapLibre, FastAPI | [live](https://www.nyc15min.com/) |
+| [**Toronto Crash Coverage Framing**](https://github.com/Shen-42/media-bias) | How Toronto news describes crashes with cyclists | Python, spaCy, Snorkel | [site](https://shen-42.github.io/media-bias/) |
+| [**Bridge Translator**](https://github.com/Shen-42/bridge-translator) | Bridge game shorthand in plain English | Python, Qwen3, Ollama | [results](https://shen-42.github.io/bridge-translator/) |
+| [**Gallbladder Tracker**](https://github.com/Shen-42/gallbladder-tracker) | Shows which foods came before pain episodes | Java, Spring Boot | [demo](https://shen-42.github.io/gallbladder-tracker/) |
 
 ---
 
