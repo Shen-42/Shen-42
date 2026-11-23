@@ -8,26 +8,35 @@ around how to evaluate machine translation and LLM output. I'm currently looking
 
 ### Projects
 
-**[NYC 15-Minute City Explorer](https://github.com/Shen-42/nyc-15min)** · [live](https://www.nyc15min.com/)
-An interactive map of New York City that shows what you can reach within 15 minutes of
-any address. React and Leaflet front end, FastAPI back end, deployed on Render.
+#### Web apps
 
-**[Toronto Crash Coverage Framing](https://github.com/Shen-42/media-bias)** · [site](https://shen-42.github.io/media-bias/)
-Measures how Toronto news frames crashes involving pedestrians and cyclists, using spaCy dependency rules and
-weak supervision over 979 articles. Includes a Chrome extension that labels crash sentences on the page you're reading.
+- **[NYC 15-Minute City Explorer](https://github.com/Shen-42/nyc-15min)** · [live](https://www.nyc15min.com/)<br>
+  A map of New York City that shows what you can reach on foot within 15 minutes of any address.<br>
+  *React, MapLibre, FastAPI, Supabase, Redis*
 
-**[Machine Translation Metrics by Phenomenon](https://github.com/mrassell/machine-translation-project)**
-Team project on how MT evaluation metrics perform across specific linguistic phenomena.
+- **[Gallbladder Tracker](https://github.com/Shen-42/gallbladder-tracker)** · [demo](https://shen-42.github.io/gallbladder-tracker/)<br>
+  Logs meals, fat content and pain episodes, and shows which foods came before the pain.<br>
+  *Java, Spring Boot, PostgreSQL, Docker*
 
-**[Bridge Translator](https://github.com/Shen-42/bridge-translator)** · [site](https://shen-42.github.io/bridge-translator/)
-A Python program that turns Bridge game shorthand into plain English that beginners can follow.
+#### NLP
 
-**[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)
-Charts daily snow on the ground in Toronto, 2006–2025, from Environment Canada station data. 
+- **[Toronto Crash Coverage Framing](https://github.com/Shen-42/media-bias)** · [site](https://shen-42.github.io/media-bias/)<br>
+  Measures how Toronto news describes crashes involving pedestrians and cyclists, across 979 articles.<br>
+  *Python, spaCy, Snorkel, SetFit, Qwen3*
 
-**[Gallbladder Tracker](https://github.com/Shen-42/gallbladder-tracker)** · [demo](https://shen-42.github.io/gallbladder-tracker/)
-A web app for people with gallbladder problems to log meals, their fat content, and pain episodes, so they can see which meals came before the pain.
+- **[Bridge Translator](https://github.com/Shen-42/bridge-translator)** · [results](https://shen-42.github.io/bridge-translator/)<br>
+  Turns Bridge game shorthand into plain English that beginners can follow.<br>
+  *Python, Qwen3, Ollama*
 
+- **[Machine Translation Metrics by Phenomenon](https://github.com/mrassell/machine-translation-project)** (team project)<br>
+  Tests how well MT metrics match human judgments on specific kinds of sentences.<br>
+  *Python, sacreBLEU, COMET*
+
+#### Personal projects
+
+- **[Toronto Winters](https://github.com/Shen-42/toronto-winters)** · [live](https://shen-42.github.io/toronto-winters/)<br>
+  Charts daily snow on the ground in Toronto for every winter from 2006 to 2025.<br>
+  *JavaScript, Environment Canada data*
 ---
 
 ### Tech Stack
